@@ -52,3 +52,6 @@ ckpts/
 *.gif
 *.webp
 !assets/*
+
+dataset*
+wudi_*
